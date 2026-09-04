@@ -27,7 +27,7 @@ export const projects: Project[] = [
     detail:
       'Learned how to architect state management for real-time apps, handle cross-tab sync via localStorage events, and build responsive mobile-first chat UIs.',
     tech: ['React', 'TypeScript', 'Tailwind CSS', 'Vite', 'localStorage'],
-    github: 'https://github.com/yourusername/chat-app',
+    github: 'https://github.com/krushnaprakash01/chat-app',
     demo: 'https://chat-app-woad-eight-14.vercel.app',
     metric: '3 chat rooms · live typing indicators',
     featured: true,
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     detail:
       'First project where I built a complete CRUD app with data persistence, learned to handle financial calculations precisely, and implemented CSV export from scratch.',
     tech: ['React', 'TypeScript', 'Tailwind CSS', 'Vite', 'Chart.js'],
-    github: 'https://github.com/yourusername/expense-tracker',
+    github: 'https://github.com/krushnaprakash01/expense-tracker',
     demo: 'https://expense-tracker-pi-eight-18.vercel.app',
     metric: 'Budget alerts · CSV export',
   },
@@ -52,7 +52,7 @@ export const projects: Project[] = [
     detail:
       'Practiced component architecture, CSS custom properties for theming, performance optimization (Lighthouse 95+), and deploying to Vercel.',
     tech: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Vite'],
-    github: 'https://github.com/yourusername/portfolio',
+    github: 'https://github.com/krushnaprakash01/portfolio',
     demo: 'https://portfolio-nine-topaz-37.vercel.app',
   },
 ]
