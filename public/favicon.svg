@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#0a0a0a"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle"
+        font-family="IBM Plex Mono, monospace" font-size="18" font-weight="600" fill="#4ade80">
+    K.
+  </text>
+</svg>
+
