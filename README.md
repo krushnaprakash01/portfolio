@@ -2,6 +2,10 @@
 
 A single-page developer portfolio built with **React 18 + Vite + TypeScript + Tailwind CSS + Framer Motion**.
 
+🌐 **Live Demo:** [https://portfolio-nine-topaz-37.vercel.app/](https://portfolio-nine-topaz-37.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-topaz-37.vercel.app/)
+
 ## Quick Start
 
 ```bash
