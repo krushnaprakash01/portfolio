@@ -21,7 +21,7 @@ export interface CertificateItem {
 
 export const education: ExperienceItem[] = [
   {
-    role: 'Student Of BE in Computer Science & Engineering',
+    role: 'BE in Computer Science & Engineering',
     org: 'Mauli Group of Institutions College of Engineering and Technology, Shegaon',
     dates: '2024 — 2028',
     description:
